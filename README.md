@@ -68,16 +68,34 @@ DIVIDE(
     ),
     0
 )
+```
 
 ## Dataset
 
-The project uses a synthetic dataset created for portfolio and learning purposes. It contains 650 Canadian sales orders across multiple regions, products, customer segments, and order statuses.
+The project uses a synthetic dataset created for portfolio and learning purposes.
+
+The dataset contains **650 Canadian sales orders** across multiple:
+
+- Regions
+- Provinces
+- Product categories
+- Products
+- Customer segments
+- Sales representatives
+- Order statuses
+
+The data includes fields for revenue, cost, profit, units sold, shipping time, and on-time delivery performance.
 
 ## Files
-Sales_Operations_Performance_Dashboard.pbix
-PowerBI_Sales_Operations_Dataset.xlsx
-dashboard-preview.png
+
+- `PowerBI_Sales_Operations_Dashboard.pbix` — Power BI dashboard file
+- `PowerBI_Sales_Operations_Dataset.xlsx` — Source dataset used for the analysis
+- `dashboard_preview.png` — Dashboard preview image
+- `README.md` — Project documentation
 
 ## Author
-Hritika Sharma
+
+**Hritika Sharma**
+
 Computer Science Graduate | Data Analytics
+
