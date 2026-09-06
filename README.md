@@ -4,7 +4,7 @@ A Power BI dashboard project analyzing synthetic Canadian sales and operations d
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Key KPIs
 
